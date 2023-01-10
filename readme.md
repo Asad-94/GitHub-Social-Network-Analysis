@@ -238,7 +238,7 @@ plt.show()
 
 <div class="output display_data">
 
-![](9167945a8b29f7317424c7dfbc87ffe11284f5bb.png)
+![png](fig1.png)
 
 </div>
 
@@ -563,7 +563,7 @@ plt.show()
 
 <div class="output display_data">
 
-![](62ff54b81842d9ed2b0adab8f469a59a43562cd5.png)
+![png](fig2.png)
 
 </div>
 
@@ -626,7 +626,7 @@ nx.draw(G, node_size=nodes_sizes, node_color=nodes_color, edge_color='#dce8e0')
 
 <div class="output display_data">
 
-![](b4f6408d23d4806ef75203cd26280b60ce2d37d4.png)
+![png](fig3.png)
 
 </div>
 
@@ -690,7 +690,7 @@ nx.draw(G, node_size=nodes_sizes, node_color=nodes_color, edge_color='#dce8e0')
 
 <div class="output display_data">
 
-![](02b24e2bf484182a025382bcc69e5c572ae61274.png)
+![png](fig4.png)
 
 </div>
 
@@ -754,7 +754,7 @@ nx.draw(G, node_size=nodes_sizes, node_color=nodes_color, edge_color='#dce8e0')
 
 <div class="output display_data">
 
-![](0580f19c6e96630907dbb22a759ae259a7496744.png)
+![png](fig5.png)
 
 </div>
 
